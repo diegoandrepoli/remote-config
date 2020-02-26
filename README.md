@@ -8,7 +8,7 @@ To use this application your need Golang, get [here](https://golang.org/dl/).
 Clone this repository with command git clone or download source code.
 
 ```console
-git clone .....
+git clone https://github.com/diegoandrepoli/remote-config.git
 ```
 
 To setup run makefile with parameter setup.
