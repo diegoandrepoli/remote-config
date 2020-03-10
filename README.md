@@ -1,4 +1,7 @@
 # Remote Config
+
+[![Build Status](https://travis-ci.org/diegoandrepoli/remote-config.svg?branch=master)](https://travis-ci.org/diegoandrepoli/remote-config)
+
 This application serve your configurations.
 
 ## Requisites
