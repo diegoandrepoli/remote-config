@@ -1,6 +1,7 @@
 # Remote Config
 
 [![Build Status](https://travis-ci.org/diegoandrepoli/remote-config.svg?branch=master)](https://travis-ci.org/diegoandrepoli/remote-config)
+[![Release](https://img.shields.io/github/v/release/diegoandrepoli/remote-config.svg)](https://github.com/diegoandrepoli/remote-config/releases/latest)
 
 This application serve your configurations.
 
